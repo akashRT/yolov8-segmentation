@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/Yolo_v8_segmentation/objects_data/train/images
+val: /content/drive/MyDrive/Yolo_v8_segmentation/objects_data/valid/images
+test: /content/drive/MyDrive/Yolo_v8_segmentation/objects_data/test/images
+
+nc: 6
+names: ['animal', 'auto', 'bike', 'bus', 'car', 'person']
